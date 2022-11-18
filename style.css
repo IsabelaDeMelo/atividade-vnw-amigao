@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 1.5rem;
+}
+
+.paragHeader {
+    margin-top: 1.3rem;
+    margin-bottom: 1.5rem;
+}
+
+ul{
+    margin-left: 3rem;
+}
+
+li {
+    padding-bottom: 0.6rem;
+}
+
+.btMenu {
+    padding: 0.3rem;
+    border-style: none;
+    background-color: rgba(128, 128, 128, 0.397);
+}
+
+#pmenu {
+    text-transform: uppercase;
+}
+
+.bt1, .bt2, .bt3 {
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.582);
+    padding: 0.4rem;
+    background-color: rgba(128, 128, 128, 0.397);
+    border-style: none;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-right: 1rem;
+}
+
+.circulo {
+    background-color: rgba(128, 128, 128, 0.555);
+    width: 10rem;
+    height: 10rem;
+    border-radius: 100px;
+}
+
+.adoteMeio {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.imgCachorros {
+    width: 15rem;
+}
+
+.imgsContainer {
+    display: inline-block;
+}
+
+main > section > h2 {
+    margin-bottom: 1rem;
+}
+
+.bt4 {
+    padding: 0.3rem;
+    background-color: rgba(128, 128, 128, 0.555);
+    border-style: none;
+    text-decoration: underline;
+}
+
+figcaption {
+    margin-bottom: 0.3rem;
+}
+
+footer {
+    margin-top: 3rem;
+}
+
+footer > section > p {
+    margin-bottom: 1rem;
+}
+
+footer > section > img {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    width: 1.2rem;
+}
+
+footer > section > ul {
+    margin-bottom: 3rem;
+}
